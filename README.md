@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+![Form](https://github.com/Snehagatlaa/dynamic-form-generator/blob/main/public/outputform-preview.png?raw=true)
 
 ## Available Scripts
 
