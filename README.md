@@ -10,7 +10,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](https://legendary-goldfish-7vp6gp6pp5j6hwr4r-3001.app.github.dev/) to view it in the browser.
+Open [http://localhost:3000](https://legendary-goldfish-7vp6gp6pp5j6hwr4r-3000.app.github.dev/) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
